@@ -176,9 +176,17 @@ html, body {
   margin-bottom: 1rem;
 }
 
+.fa-code {
+  color: #e54d26;
+}
 
+.fa-photo-video {
+  color: #563d7c;
+}
 
-
+.fa-google-drive {
+  color: #2163af;
+}
 
 
 /* ==========================================================================
