@@ -165,7 +165,7 @@ html, body {
 
 .welcome {
   width: 75%;
-  margin: 0 0 auto auto;
+  margin: auto;
   padding-top: 2rem;
 }
 
@@ -192,6 +192,22 @@ html, body {
   font-size: 4em;
   margin: 1rem;
 }
+
+footer {
+  background-color: #3f3f3f;
+  color: d5d5d5;
+  padding-top: 2rem;
+}
+
+hr.light {
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+
+
+
 
 
 
