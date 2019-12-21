@@ -223,6 +223,29 @@ hr.light-100 {
   margin-bottom: 1rem;
 }
 
+.gr_width_small {
+  width:367px;
+}
+.float-left {
+  float: left;
+}
+
+#sidebar_photo {
+  margin-right: auto;
+  margin-left: auto;
+  width: 320px;
+  float: right;
+}
+
+.margin_left_right_auto {
+  margin-left:auto;
+  margin-right: auto;
+}
+
+#sidebar img{
+  padding: 10px;
+  width: 310px;
+}
 
 
 
