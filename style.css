@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 /*! HTML5 Boilerplate v7.2.0 | MIT License | https://html5boilerplate.com/ */
 
 /* main.css 2.0.0 | MIT License | https://github.com/h5bp/main.css#readme */
@@ -98,6 +99,8 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+
+
 html, body {
   height: 100%;
   width: 100%;
@@ -105,7 +108,10 @@ html, body {
   color: #222;
 }
 
+.navbar {
+  padding: .8rem;
 
+}
 
 
 
