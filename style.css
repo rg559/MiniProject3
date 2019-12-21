@@ -165,7 +165,7 @@ html, body {
 
 .welcome {
   width: 75%;
-  margin: 0 auto;
+  margin: 0 0 auto auto;
   padding-top: 2rem;
 }
 
