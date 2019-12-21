@@ -188,6 +188,13 @@ html, body {
   color: #2163af;
 }
 
+.fa-code, .fa-photo-video, .fa-google-drive {
+  font-size: 4em;
+  margin: 1rem;
+}
+
+
+
 
 /* ==========================================================================
    Helper classes
