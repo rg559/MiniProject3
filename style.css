@@ -164,7 +164,7 @@ html, body {
 }
 
 .welcome {
-  width: 90%%;
+  width: 90%;
   margin: auto;
   padding-top: 2rem;
 }
@@ -206,6 +206,12 @@ hr.light {
   margin-bottom: 1rem;
 }
 
+hr.light-100 {
+  border-top: 1px solid #d5d5d5;
+  width: 100%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
 
 
 
