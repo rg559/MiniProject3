@@ -186,9 +186,17 @@ html, body {
   color: #2163af;
 }
 
-.fa-code, .fa-photo-video, .fa-google-drive {
+.fa-code, .fa-photo-video, .fa-google-drive, .fa-linkedin, .fa-github-square{
   font-size: 4em;
   margin: 1rem;
+}
+
+.fa-linkedin {
+  color: #2867B2;
+}
+
+.fa-github-square {
+  color: #4078c0;
 }
 
 footer {
