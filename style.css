@@ -164,14 +164,12 @@ html, body {
 }
 
 .welcome {
-  width: 125%;
   margin: auto;
   padding-top: 2rem;
 }
 
 .welcome hr {
   border-top: 2px solid #b4b4b4;
-  width: 95%;
   margin-top: .3rem;
   margin-bottom: 1rem;
 }
